@@ -3,5 +3,6 @@
 ./install/install-btop.sh
 ./install/install-cifs.sh
 ./install/install-fzf.sh
+./install/install-pipx.sh
 ./install/install-superfile.sh
 ./install/install-vlc.sh
