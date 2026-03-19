@@ -8,4 +8,4 @@ echo "deb [signed-by=/etc/apt/keyrings/antigravity-repo-key.gpg] https://us-cent
 
 sudo apt update
 
-sudo apt install antigravity
+sudo apt install antigravity -y

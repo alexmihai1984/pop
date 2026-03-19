@@ -1,3 +1,3 @@
 #!/bin/bash
 
-sudo apt install mtr-tiny
+sudo apt install mtr-tiny -y

@@ -1,3 +1,3 @@
 #!/bin/bash
 
-sudo apt install cifs-utils
+sudo apt install cifs-utils -y

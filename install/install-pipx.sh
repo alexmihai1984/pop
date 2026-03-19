@@ -1,3 +1,3 @@
 #!/bin/bash
 
-sudo apt install pipx
+sudo apt install pipx -y

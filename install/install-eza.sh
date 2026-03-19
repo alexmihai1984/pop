@@ -1,3 +1,3 @@
 #!/bin/bash
 
-sudo apt install eza
+sudo apt install eza -y

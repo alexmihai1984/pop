@@ -1,3 +1,3 @@
 #!/bin/bash
 
-sudo apt install btop
+sudo apt install btop -y
