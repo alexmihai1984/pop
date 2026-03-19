@@ -4,6 +4,7 @@
 ./install/install-btop.sh
 ./install/install-cifs.sh
 ./install/install-fzf.sh
+./install/install-mtr.sh
 ./install/install-pipx.sh
 ./install/install-superfile.sh
 ./install/install-tldr.sh
