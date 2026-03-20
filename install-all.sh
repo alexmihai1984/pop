@@ -5,6 +5,7 @@
 ./install/install-cifs.sh
 ./install/install-eza.sh
 ./install/install-fzf.sh
+./install/install-jetbrains-toolbox.sh
 ./install/install-mtr.sh
 ./install/install-pipx.sh
 ./install/install-sdkman.sh
