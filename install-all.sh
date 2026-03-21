@@ -3,6 +3,7 @@
 ./install/install-antigravity.sh
 ./install/install-btop.sh
 ./install/install-cifs.sh
+./install/install-docker.sh
 ./install/install-eza.sh
 ./install/install-fzf.sh
 ./install/install-jetbrains-toolbox.sh
